@@ -25,4 +25,4 @@ Using roles and landmarks on project help make it more ASSECIBLE for different u
 
 ## Acknowledgments
 
-I would like to thank the people who provided feedback on my project at [Frontend mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub/frontend-profile-qr-code-component-website-k6U3ZnZjn).
+I would like to thank the people who provided feedback on my project at [Frontend mentor](https://www.frontendmentor.io/solutions/frontend-profile-qr-code-component-website-k6U3ZnZjn).
