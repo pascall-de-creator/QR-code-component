@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component
 
-![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
+![Design preview for the QR code component coding challenge](./screenshots/preview.png)
 
 ## About the Project
 A simple front-end webpage based on a QR-code card component from #Frontend-Mentor
